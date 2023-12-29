@@ -1,6 +1,6 @@
 # Terraform on AWS with SRE & IaC DevOps 
 
-## Modules
+## Modules 
 01. Infrastructure as Code (IaC)
 02. Terraform Basics
   - Install Tools on MacOs, LinuxOS and WindowsOS
